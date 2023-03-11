@@ -52,8 +52,6 @@ care imi creeaza biblioteca dinamica. Pentru realizarea acestui Makefile, m-am a
 de exemplele din laboratorul 1.
 
 Link-uri folosite in rezolvarea temei:
--> m-am inspirat din laboratorul 1 ca sa realizez Makefile-ul
-https://ocw.cs.pub.ro/courses/so/laboratoare/laborator-01 
--> m-am inspirat din laboratorul 2 ca sa implementez codul 
-https://ocw.cs.pub.ro/courses/so/laboratoare/laborator-02
+-> m-am inspirat din laboratorul 1 ca sa realizez Makefile-ul https://ocw.cs.pub.ro/courses/so/laboratoare/laborator-01 
+-> m-am inspirat din laboratorul 2 ca sa implementez codul  https://ocw.cs.pub.ro/courses/so/laboratoare/laborator-02
 
